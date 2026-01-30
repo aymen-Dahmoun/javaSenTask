@@ -2,7 +2,7 @@
 
 ## Project Completion Report
 
-**Date**: January 28, 2026  
+**Date**: January, 2026  
 **Project**: Elevator Controller Simulator - Java Implementation & Testing  
 **Status**: ✅ **COMPLETE**
 
